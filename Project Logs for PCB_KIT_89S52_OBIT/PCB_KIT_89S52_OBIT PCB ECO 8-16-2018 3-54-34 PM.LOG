@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IC1 Old Footprint=DIP8/W0.3 New Footprint=SO8
+Change Component Footprint: Designator=U7 Old Footprint=MODULE HC-05 New Footprint=JP6-C1T
+Added Room: Name=PCB_KIT_89S52_OBIT

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetHD1_1 Pin=RL1-2
+Removed Pin From Net: NetName=NetHD1_3 Pin=RL1-3
+Added Pin To Net: NetName=NetHD1_3 Pin=RL1-2
+Added Pin To Net: NetName=NetHD1_1 Pin=RL1-3
+Added Room: Name=PCB_KIT_89S52_OBIT

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=OK Pin=C17-9
+Removed Pin From Net: NetName=P3.6 Pin=C17-10
+Removed Pin From Net: NetName=LEFT Pin=C17-11
+Removed Pin From Net: NetName=DOWN Pin=C17-12
+Removed Pin From Net: NetName=P3.3 Pin=C17-13
+Removed Pin From Net: NetName=IRQ Pin=C17-14
+Removed Pin From Net: NetName=89_TX Pin=C17-15
+Removed Pin From Net: NetName=89_RX Pin=C17-16
+Added Pin To Net: NetName=89_RX Pin=C17-9
+Added Pin To Net: NetName=89_TX Pin=C17-10
+Added Pin To Net: NetName=IRQ Pin=C17-11
+Added Pin To Net: NetName=P3.3 Pin=C17-12
+Added Pin To Net: NetName=DOWN Pin=C17-13
+Added Pin To Net: NetName=LEFT Pin=C17-14
+Added Pin To Net: NetName=P3.6 Pin=C17-15
+Added Pin To Net: NetName=OK Pin=C17-16
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component RPB1 10K
+Added Room: Name=PCB_KIT_89S52_OBIT

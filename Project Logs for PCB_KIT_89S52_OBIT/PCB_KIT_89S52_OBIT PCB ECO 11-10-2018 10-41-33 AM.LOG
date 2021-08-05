@@ -1,0 +1,67 @@
+Change Component Footprint: Designator=IR1 Old Footprint=IR_RECEIVER_V2 New Footprint=IR2
+Change Component Footprint: Designator=U5 Old Footprint=SOP8 New Footprint=SOP 8
+Added Component: Designator=C11(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C12(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C13(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=DIO3(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S6(SW-DIP1-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No."; Value = "418127160901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole"; Value = "01"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC14_2 Pin=DIO3-1
+Added Pin To Net: NetName=VCC Pin=DIO3-2
+Added Pin To Net: NetName=A Pin=R19-1
+Added Pin To Net: NetName=B Pin=R19-2
+Added Pin To Net: NetName=C Pin=R19-3
+Added Pin To Net: NetName=D Pin=R19-4
+Added Pin To Net: NetName=NetDS1_2 Pin=R19-5
+Added Pin To Net: NetName=NetDS1_4 Pin=R19-6
+Added Pin To Net: NetName=NetDS1_7 Pin=R19-7
+Added Pin To Net: NetName=NetDS1_11 Pin=R19-8
+Added Pin To Net: NetName=D4 Pin=R20-1
+Added Pin To Net: NetName=D5 Pin=R20-2
+Added Pin To Net: NetName=D6 Pin=R20-3
+Added Pin To Net: NetName=D7 Pin=R20-4
+Added Pin To Net: NetName=NetDS1_3 Pin=R20-5
+Added Pin To Net: NetName=NetDS1_5 Pin=R20-6
+Added Pin To Net: NetName=NetDS1_10 Pin=R20-7
+Added Pin To Net: NetName=NetDS1_1 Pin=R20-8
+Added Pin To Net: NetName=NetQ3_1 Pin=S6-1
+Added Pin To Net: NetName=VCC Pin=S6-2
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component C11 22p
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component C12 22p
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component C13 104
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component DIO3 Diode SMD
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component R19 RP330
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component R20 RP330
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component S6 =partNo
+Added Room: Name=PCB_KIT_89S52_OBIT

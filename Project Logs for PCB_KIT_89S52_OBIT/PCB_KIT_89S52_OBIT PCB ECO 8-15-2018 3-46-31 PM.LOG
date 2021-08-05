@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Room: Name=PCB_KIT_89S52_OBIT

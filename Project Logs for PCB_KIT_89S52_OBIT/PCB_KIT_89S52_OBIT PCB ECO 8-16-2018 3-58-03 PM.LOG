@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=P0.7 Pin=C20-33
+Removed Pin From Net: NetName=P0.6 Pin=C20-34
+Removed Pin From Net: NetName=P0.5 Pin=C20-35
+Removed Pin From Net: NetName=P0.4 Pin=C20-36
+Removed Pin From Net: NetName=LED4 Pin=C20-37
+Removed Pin From Net: NetName=LED3 Pin=C20-38
+Removed Pin From Net: NetName=LED2 Pin=C20-39
+Removed Pin From Net: NetName=LED1 Pin=C20-40
+Added Pin To Net: NetName=LED1 Pin=C20-33
+Added Pin To Net: NetName=LED2 Pin=C20-34
+Added Pin To Net: NetName=LED3 Pin=C20-35
+Added Pin To Net: NetName=LED4 Pin=C20-36
+Added Pin To Net: NetName=P0.4 Pin=C20-37
+Added Pin To Net: NetName=P0.5 Pin=C20-38
+Added Pin To Net: NetName=P0.6 Pin=C20-39
+Added Pin To Net: NetName=P0.7 Pin=C20-40
+Added Room: Name=PCB_KIT_89S52_OBIT

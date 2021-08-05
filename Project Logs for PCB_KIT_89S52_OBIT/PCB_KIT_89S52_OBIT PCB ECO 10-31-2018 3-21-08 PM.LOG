@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=GND Pin=IR1-1
+Removed Pin From Net: NetName=IR_OUT Pin=IR1-3
+Removed Pin From Net: NetName=3V3 Pin=U4-4
+Change Component Footprint: Designator=IR1 Old Footprint=IR_RECEIVER_V2 New Footprint=IR2
+Change Component Footprint: Designator=U5 Old Footprint=SO8 New Footprint=SOP 8
+Change Component Comment : Designator=RX Old Comment=partNo New Comment==partNo
+Change Component Comment : Designator=S3 Old Comment=partNo New Comment==partNo
+Change Component Comment : Designator=S4 Old Comment=partNo New Comment==partNo
+Change Component Comment : Designator=S5 Old Comment=partNo New Comment==partNo
+Change Component Comment : Designator=S6 Old Comment=partNo New Comment==partNo
+Change Component Comment : Designator=TX Old Comment=partNo New Comment==partNo
+Change Component Designator: OldDesignator=ADC NewDesignator=C2
+Change Component Designator: OldDesignator=DAC NewDesignator=LED1
+Change Component Designator: OldDesignator=P1.0 NewDesignator=LED11
+Change Component Designator: OldDesignator=P1.1 NewDesignator=LED10
+Change Component Designator: OldDesignator=P1.2 NewDesignator=LED9
+Change Component Designator: OldDesignator=P1.3 NewDesignator=LED8
+Change Component Designator: OldDesignator=P1.4 NewDesignator=LED7
+Change Component Designator: OldDesignator=P1.5 NewDesignator=LED6
+Change Component Designator: OldDesignator=P1.6 NewDesignator=LED5
+Change Component Designator: OldDesignator=P1.7 NewDesignator=LED4
+Change Component Designator: OldDesignator=POW NewDesignator=LED2
+Change Component Designator: OldDesignator=RX NewDesignator=S1
+Change Component Designator: OldDesignator=SWQ NewDesignator=LED3
+Change Component Designator: OldDesignator=TX NewDesignator=S2
+Change Component Designator: OldDesignator=VCC NewDesignator=C1
+Change Component Designator: OldDesignator=VR_LCD NewDesignator=VR3
+Change Component Designator: OldDesignator=VR ADC NewDesignator=VR1
+Change Component Designator: OldDesignator=VREF NewDesignator=VR2
+Added Component: Designator=C11(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C12(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=DIO3(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC13_2 Pin=DIO3-1
+Added Pin To Net: NetName=VCC Pin=DIO3-2
+Added Pin To Net: NetName=IR_OUT Pin=IR1-1
+Added Pin To Net: NetName=GND Pin=IR1-3
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component C11 22p
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component C12 22p
+Added Member To Class: ClassName=PCB_KIT_89S52_OBIT Member=Component DIO3 Diode SMD
+Added Room: Name=PCB_KIT_89S52_OBIT

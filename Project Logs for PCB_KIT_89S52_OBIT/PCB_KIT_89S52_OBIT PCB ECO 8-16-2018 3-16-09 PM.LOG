@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=D7 Pin=C20-1
+Removed Pin From Net: NetName=D6 Pin=C20-2
+Removed Pin From Net: NetName=D5 Pin=C20-3
+Removed Pin From Net: NetName=D4 Pin=C20-4
+Removed Pin From Net: NetName=D Pin=C20-5
+Removed Pin From Net: NetName=C Pin=C20-6
+Removed Pin From Net: NetName=B Pin=C20-7
+Removed Pin From Net: NetName=A Pin=C20-8
+Added Pin To Net: NetName=A Pin=C20-1
+Added Pin To Net: NetName=B Pin=C20-2
+Added Pin To Net: NetName=C Pin=C20-3
+Added Pin To Net: NetName=D Pin=C20-4
+Added Pin To Net: NetName=D4 Pin=C20-5
+Added Pin To Net: NetName=D5 Pin=C20-6
+Added Pin To Net: NetName=D6 Pin=C20-7
+Added Pin To Net: NetName=D7 Pin=C20-8
+Added Room: Name=PCB_KIT_89S52_OBIT
